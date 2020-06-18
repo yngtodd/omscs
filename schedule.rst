@@ -66,7 +66,7 @@ Fall 2022
   - Rating: 4.25
   - OMSCentral: `CS-6290`_
 
-  * Computer Networks
+* Computer Networks
 
     - Workload: 8.34
     - Difficulty: 2.48
