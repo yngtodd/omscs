@@ -30,6 +30,35 @@ Fall 2022
   - Rating: 4.21
   - OMSCentral: `CS-6210`_
 
+* Intro to High-Performance Computing
+
+  - Workload: 19.72
+  - Difficulty: 4.5
+  - Rating: 4.67
+  - OMSCentral: `CSE-6220`_
+
+
+Spring 2022
+-----------
+
+* Compilers - Theory & Practice 
+
+  - Workload: 26.95
+  - Difficulty: 4.48
+  - Rating 4.14
+  - OMSCentral: `CS-8803-008`_
+
+* Embedded Systems Optimization
+
+  - Workload: 15.85
+  - Difficulty: 3.56
+  - Rating: 3.44
+  - OMSCentral: `CS-6291`_
+
+
+Fall 2022
+---------
+
 * High Performance Computing Architecture
 
   - Workload: 12.96
@@ -37,8 +66,31 @@ Fall 2022
   - Rating: 4.25
   - OMSCentral: `CS-6290`_
 
+  * Computer Networks
+
+    - Workload: 8.34
+    - Difficulty: 2.48
+    - Rating: 3.64
+    - OMSCentral: `CS-6250`_
+
+
+Spring 2023
+-----------
+
+* Computer Vision
+
+  - Workload: 20.3
+  - Difficulty: 4.01
+  - Rating: 4.44
+  - OMSCentral: `CS-6476`_
+
 
 .. _CS-6515: https://omscentral.com/course/CS-6515
 .. _CS-6200: https://omscentral.com/course/CS-6200
 .. _CS-6210: https://omscentral.com/course/CS-6210
+.. _CSE-6220: https://omscentral.com/course/CSE-6220
+.. _CS-8803-008: https://omscentral.com/course/CS-8803-008
+.. _CS-6291: https://omscentral.com/course/CS-6291
 .. _CS-6290: https://omscentral.com/course/CS-6290
+.. _CS-6250: https://omscentral.com/course/CS-6250
+.. _CS-6476: https://omscentral.com/course/CS-6476
