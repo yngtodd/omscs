@@ -68,10 +68,10 @@ Fall 2022
 
 * Computer Networks
 
-    - Workload: 8.34
-    - Difficulty: 2.48
-    - Rating: 3.64
-    - OMSCentral: `CS-6250`_
+  - Workload: 8.34
+  - Difficulty: 2.48
+  - Rating: 3.64
+  - OMSCentral: `CS-6250`_
 
 
 Spring 2023
