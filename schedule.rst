@@ -5,7 +5,7 @@ Schedule Draft
 Spring 2021
 -----------
 
-1. Introduction to Graduate Algorithms
+1. **Introduction to Graduate Algorithms**
 
 - Workload: 20.32 hrs
 - Difficulty: 4.32
@@ -16,7 +16,7 @@ Spring 2021
 
 - Hard to get into. Most students get in aftet taking several other courses. `[1]`_
 
-2. Graduate Introduction to Operating Systems
+2. **Graduate Introduction to Operating Systems**
 
 - Workload: 17.47 hrs
 - Difficulty: 3.63
@@ -31,14 +31,14 @@ Spring 2021
 Fall 2022
 ---------
 
-3. Advanced Operating Systems
+3. **Advanced Operating Systems**
 
 - Workload: 16.31
 - Difficulty: 4.14
 - Rating: 4.21
 - OMSCentral: `CS-6210`_
 
-4. Intro to High-Performance Computing
+4. **Intro to High-Performance Computing**
 
 - Workload: 19.72
 - Difficulty: 4.5
@@ -49,14 +49,14 @@ Fall 2022
 Spring 2022
 -----------
 
-5. Compilers - Theory & Practice 
+5. **Compilers - Theory & Practice**
 
 - Workload: 26.95
 - Difficulty: 4.48
 - Rating 4.14
 - OMSCentral: `CS-8803-008`_
 
-6. Embedded Systems Optimization
+6. **Embedded Systems Optimization**
 
 - Workload: 15.85
 - Difficulty: 3.56
@@ -67,7 +67,7 @@ Spring 2022
 Fall 2022
 ---------
 
-7. High Performance Computing Architecture
+7. **High Performance Computing Architecture**
 
 - Workload: 12.96
 - Difficulty: 3.65
@@ -78,7 +78,7 @@ Fall 2022
 
 - Easier to get in first semester `[2]`_.
 
-8. Computer Networks
+8. **Computer Networks**
 
 - Workload: 8.34
 - Difficulty: 2.48
@@ -89,7 +89,7 @@ Fall 2022
 Spring 2023
 -----------
 
-9. Computer Vision
+9. **Computer Vision**
 
 - Workload: 20.3
 - Difficulty: 4.01
