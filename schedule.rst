@@ -12,12 +12,19 @@ Spring 2021
   - Rating: 3.88
   - OMSCentral: `CS-6515`_
 
+  - Notes from Reddit:
+    - Apparently hard to get into. Most students get in aftet taking several
+      other courses. `[1]`_
+
 * Graduate Introduction to Operating Systems
 
   - Workload: 17.47 hrs
   - Difficulty: 3.63
   - Rating: 4.41
   - OMSCentral: `CS-6200`_
+
+  - Notes from Reddit:
+    - Easier to get in first semester `[2]`_.
 
 
 Fall 2022
@@ -66,6 +73,9 @@ Fall 2022
   - Rating: 4.25
   - OMSCentral: `CS-6290`_
 
+  - Notes from Reddit:
+    - Easier to get in first semester `[2]`_.
+
 * Computer Networks
 
   - Workload: 8.34
@@ -94,3 +104,6 @@ Spring 2023
 .. _CS-6290: https://omscentral.com/course/CS-6290
 .. _CS-6250: https://omscentral.com/course/CS-6250
 .. _CS-6476: https://omscentral.com/course/CS-6476
+
+.. _[1]: https://www.reddit.com/r/OMSCS/comments/gz1m9z/how_do_i_set_myself_up_for_success_in_the/ftdqnjf?utm_source=share&utm_medium=web2x
+.. _[2]: https://www.reddit.com/r/OMSCS/comments/gz1m9z/how_do_i_set_myself_up_for_success_in_the/ftf5cb3?utm_source=share&utm_medium=web2x
