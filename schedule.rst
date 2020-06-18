@@ -13,8 +13,7 @@ Spring 2021
   - OMSCentral: `CS-6515`_
 
   - Notes from Reddit:
-    - Apparently hard to get into. Most students get in aftet taking several
-      other courses. `[1]`_
+    * Apparently hard to get into. Most students get in aftet taking several other courses. `[1]`_
 
 * Graduate Introduction to Operating Systems
 
@@ -24,7 +23,7 @@ Spring 2021
   - OMSCentral: `CS-6200`_
 
   - Notes from Reddit:
-    - Easier to get in first semester `[2]`_.
+    * Easier to get in first semester `[2]`_.
 
 
 Fall 2022
@@ -74,7 +73,7 @@ Fall 2022
   - OMSCentral: `CS-6290`_
 
   - Notes from Reddit:
-    - Easier to get in first semester `[2]`_.
+    * Easier to get in first semester `[2]`_.
 
 * Computer Networks
 
